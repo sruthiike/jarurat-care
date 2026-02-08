@@ -1,16 +1,32 @@
-# React + Vite
+# Jarurat Care – Healthcare Support
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+Jarurat Care is a web app designed to help patients get support from volunteers and for volunteers to register their willingness to help. The app is simple, responsive, and user-friendly.
 
-Currently, two official plugins are available:
+## Tech Stack
+- React (Frontend library)
+- Vite (Build tool)
+- CSS (Styling)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Patient registration form
+- Volunteer registration form
+- Real-time validation for required fields
+- Thank-you messages for submissions
+- Responsive UI for desktop and mobile
 
-## React Compiler
+## AI / Automation Idea
+- Auto-response chatbot: When a patient submits a request, the chatbot can instantly connect them with a registered volunteer.
+- Data summary automation: Automatically summarize volunteer and patient requests for NGO admin.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Use Case for NGO
+- Easily manage patients who need support.
+- Keep track of volunteer registrations.
+- Provide instant acknowledgment messages.
+- Simplifies volunteer-patient matching process.
 
-## Expanding the ESLint configuration
+## Live Site
+[Click here to view](https://fantastic-heliotrope-ef4a14.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## GitHub Repository
+[Click here for code](https://github.com/sruthiike/jarurat-care)
